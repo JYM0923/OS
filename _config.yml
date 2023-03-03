@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "ymin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #이름 밑에 부가 설명 (수정할 때는 쌍따옴표로 감싸고 문장 넣을 것)
+  bio              : ""#이름 밑에 부가 설명 (수정할 때는 쌍따옴표로 감싸고 문장 넣을 것)
   location         : "Bucheon University"
   email            :
   links:
