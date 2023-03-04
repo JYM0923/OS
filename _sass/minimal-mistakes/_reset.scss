@@ -19,7 +19,7 @@ html {
   }
 
   @include breakpoint($x-large) {
-    font-size: 23px;  //22
+    font-size: 15px;  //22
   }
 
   -webkit-text-size-adjust: 100%;
