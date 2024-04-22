@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "𝔂𝓶𝓲𝓷"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "INTP"
-  location         : "Bucheon University"
+  avatar           : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6F_U2m0lZednPZKUpA6WbGUnp3OQmgLj_3JbrJadWA&s"
+  bio              : "Playing The Legend of Zelda: Tears of the Kingdom"
+  location         : "Republic Of Korea"
   email            :
   links:
     - label: "Email"
